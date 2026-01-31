@@ -64,4 +64,4 @@ dji-telemetry export video.SRT -o telemetry.gpx
 
 ## License
 
-MIT License
+This project is licensed under the [MIT License](LICENSE).
